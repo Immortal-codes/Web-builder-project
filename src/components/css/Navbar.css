@@ -1,0 +1,73 @@
+/* Navbar.css */
+
+.navbar {
+  background-color: #333; /* Navbar background color */
+  color: #fff; /* Text color */
+  padding: 10px 20px; /* Padding around navbar items */
+  display: flex; /* Use flexbox for layout */
+  justify-content: space-between; /* Align items at start and end */
+  background-color: #212731;
+  /* width: 1592px; */
+  height: 45px;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar ul {
+  list-style-type: none; /* Remove bullet points */
+  /* background-color: green; */
+  margin-right: 100px;
+  width: 600px;
+  position: relative;
+  display: flex; /* Use flexbox for layout */
+}
+
+.navbar li {
+  justify-content: center;
+  align-items: center;
+  margin-right: 100px;
+  width: 200px;
+  height: 20px;
+  top: 23px;
+
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.navbar li:last-child {
+  margin-right: 0px; /* Remove margin from the last item */
+}
+
+.navbar a {
+  color: #fff; /* Link color */
+  text-decoration: none;
+}
+
+.bar {
+  width: 300px;
+  margin-left: 500px;
+}
+
+.input {
+  height: 35px;
+  width: 300px;
+  top: 14px;
+  left: 480px;
+  border-radius: 8px;
+  border: 1px;
+}
+
+.icon {
+  position: absolute;
+  top: 42px;
+  left: 600px;
+  transform: translate(-50%, -50%);
+  padding: 10px;
+  width: 50px;
+  height: 50px;
+  color: black;
+}

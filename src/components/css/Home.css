@@ -1,0 +1,285 @@
+.home-main-body {
+  width: 1592px;
+  height: 2347px;
+  top: 89px;
+  left: 11px;
+  background-color: #fbfcfd;
+}
+
+.home-container {
+  background-color: bisque;
+}
+
+.heading-div {
+  width: 1006px;
+  height: 60px;
+  font-family: Inter;
+  position: relative;
+  top: -30px;
+  left: 170px;
+  transform: translate(10%, 10%);
+  padding: 10px;
+}
+
+.home-heading {
+  font-family: Inter;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 60px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.top-line {
+  width: 1024px;
+  height: 1.33px;
+  top: 173.67px;
+  left: 284px;
+  color: #e1e4e6;
+}
+
+.bottom-line {
+  width: 1024px;
+  height: 1.33px;
+  position: relative;
+  top: -25px;
+  right: 100px;
+  transform: translate(10%, 10%);
+  color: #e1e4e6;
+}
+
+.tools {
+  width: 600px;
+  position: relative;
+  top: -16px;
+  left: 175px;
+  transform: translate(10%, 10%);
+}
+
+.tools-ul {
+  list-style-type: none; /* Remove bullet points */
+  /* background-color: green; */
+  margin-right: 100px;
+  position: relative;
+  width: 600px;
+  display: flex; /* Use flexbox for layout */
+}
+
+.tools-li {
+  height: 20px;
+  top: 189px;
+  left: 312px;
+  font-family: Inter;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #4b5665;
+}
+
+.top-relevant {
+  position: relative;
+  top: 0px;
+  left: 535px;
+  transform: translate(10%, 10%);
+}
+
+/* builder dive start form here Tools
+AWS Builder
+Start Build
+Build Supplies
+Tooling
+BlueHosting */
+
+.builder-div {
+  width: 800px;
+  height: 20px;
+  border-radius: 12px;
+  position: relative;
+  top: -25px;
+  left: 160px;
+  transform: translate(10%, 10%);
+}
+
+.builder-ul {
+  list-style-type: none; /* Remove bullet points */
+  position: relative;
+  display: flex; /* Use flexbox for layout */
+  width: 800px;
+  height: 20px;
+}
+
+.builder-li {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #4b5665;
+
+  height: 20px;
+  width: 800px;
+}
+
+/* third div of main container starts from here */
+
+.hosting {
+  width: 600px;
+  position: relative;
+  top: -25px;
+  left: 180px;
+  transform: translate(10%, 10%);
+}
+
+.hosting-ul {
+  list-style-type: none;
+
+  margin-right: 100px;
+  position: relative;
+  display: flex; /* Use flexbox for layout */
+}
+
+.hosting-li {
+  font-family: Inter;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #727d87;
+}
+
+.vector-img {
+  width: 10px;
+  height: 8.25px;
+  top: 293px;
+  left: 464px;
+}
+
+/* component div of builder buileder1 and other */
+
+.builder-component-div {
+  background-color: #ffffff;
+  width: 1040px;
+  height: auto;
+  position: relative;
+  top: -25px;
+  left: 133px;
+  transform: translate(10%, 10%);
+  border-radius: 12px;
+}
+
+.builder-component-ul {
+  list-style-type: none;
+  margin-right: 100px;
+  position: relative;
+  /* display: flex; Use flexbox for layout */
+  bottom: 120px;
+  right: 30px;
+}
+
+.builder-component-li {
+  width: 1010px;
+  margin: 30px;
+  padding: 7px;
+}
+
+.related-deals {
+  position: relative;
+  top: 150px;
+  width: 1050px;
+  height: 600px;
+  left: 240px;
+}
+
+.realted-heading {
+  width: 495px;
+  height: 44px;
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 44px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #2c384a;
+
+  position: relative;
+  left: 2px;
+  top: 20px;
+}
+
+.related-deals-ul {
+  display: flex;
+  height: 500px;
+  list-style-type: none;
+  padding: 40px;
+  position: relative;
+  right: 100px;
+}
+
+.related-deals-li {
+  margin: 55px;
+  position: relative;
+  left: 10px;
+  bottom: 60px;
+}
+
+.lastdiv {
+  background-color: #fbfcfd;
+  width: 1100px;
+  height: 171px;
+  position: relative;
+  left: 235px;
+  top: 60px;
+}
+
+.Signup-para {
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 44px;
+  letter-spacing: 0em;
+  text-align: left;
+  width: 398px;
+  height: 88px;
+  position: relative;
+  top: 20px;
+  left: 30px;
+  color: #5c6874;
+}
+
+.sign-btn {
+  width: 97px;
+  height: 52px;
+  border-top-right-radius: 12px;
+  border-bottom-right-radius: 12px;
+  background: #1b88f4;
+  position: relative;
+  left: 970px;
+  bottom: 90px;
+}
+
+.sign-btn-para {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.699999988079071px;
+  text-align: center;
+  width: 57px;
+  height: 20px;
+  color: #ffffff;
+  position: relative;
+  left: 16px;
+  bottom: 50px;
+}
+
+.btn-search {
+  width: 348px;
+  height: 52px;
+  background: #ffffff;
+  position: relative;
+  right: 348px;
+}

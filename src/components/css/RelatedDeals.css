@@ -1,0 +1,164 @@
+.realted-container {
+  /* background-color: beige; */
+  height: 500px;
+}
+
+.related-img {
+  width: 141px;
+  height: 103px;
+  position: relative;
+  left: 40px;
+  top: 20px;
+}
+
+.top-discount-bg {
+  background-color: #f2f4f7;
+  border-radius: 12px;
+  position: relative;
+  left: 10px;
+  top: 100px;
+  width: 69px;
+  height: 28px;
+}
+
+.top-discount {
+  font-family: Inter;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  color: #074786;
+  width: 107px;
+  height: 28px;
+  position: relative;
+  top: 5px;
+  left: 10px;
+}
+
+.limited-time-bg {
+  width: 85px;
+  height: 28px;
+  background-color: #f2f4f7;
+  border-radius: 8px;
+  position: relative;
+  left: 82px;
+  top: 73px;
+}
+
+.limited-time {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #074786;
+  width: 91px;
+  height: 20px;
+  position: relative;
+  left: 6px;
+  top: 3px;
+}
+
+.web-heading {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  width: 107px;
+  height: 24px;
+  color: #626e79;
+  position: relative;
+  left: 100px;
+  top: 75px;
+}
+
+.para {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #626e79;
+  width: 270px;
+  height: 48px;
+  position: relative;
+  left: 15px;
+  top: 75px;
+}
+
+.price {
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #5c6874;
+  width: 71px;
+  height: 28px;
+  position: relative;
+  left: 15px;
+  top: 75px;
+}
+
+.price-49 {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #9fa9b3;
+  width: 48px;
+  height: 20px;
+  position: relative;
+  left: 85px;
+  top: 53px;
+}
+
+.red-discount {
+  font-family: Inter;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  width: 63px;
+  height: 20px;
+  color: #ef4c5d;
+  position: relative;
+  left: 150px;
+  top: 33px;
+}
+
+.btn {
+  width: 250px;
+  height: 48px;
+  background: #1b88f4;
+  border-radius: 12px;
+  position: relative;
+  left: 10px;
+  top: 40px;
+}
+
+.view-btn {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #ffffff;
+  background: #1b88f4;
+  border-radius: 12px;
+  border-width: 0px;
+  width: 250px;
+  height: 48px;
+  position: relative;
+  left: 0px;
+  top: 0px;
+}
